@@ -17,11 +17,34 @@ body{
     text-align: left; 
     font-family: Comic Sans MS; 
     font-weight:bold; 
-    font-size: 20px; 
+    font-size: 30px; 
     color: #EBD758; 
     text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
 }
 
+#ingredientesTitulo{
+
+ text-align: left; 
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+    font-size: 2px; 
+    color: #EBD758; 
+    text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68; 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
+}
+
+.imagenBurger {
+        width:500px;        /*Ancho de la imagen nueva, aunque en este caso son iguales.*/
+        height:300px;       /*Alto de la imagen nueva, aunque en este caso son iguales.*/
+}
+
+#descripcionBurger {
+text-align: left; 
+font-family: Arial Black; 
+font-weight: bold; 
+font-size: 30px; 
+color: #fff; 
+text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
 
 
 .container{
